@@ -18,4 +18,7 @@ Notebooks with specific analysis or tutorials to share <br/>
 https://www.galileo.edu/page/wp-content/uploads/2020/09/Programa-Advances-in-data-science-OR-2018_ES-.pdf <br/>
   
 The presentation can be found [here]( https://github.com/omartinez182/data-science-notebooks/blob/master/Data%20Science%20in%20Marketing_Omar%20E%20Martinez.key)
+
+The recording of the event can be found [here]( https://youtu.be/JAPNOYrRzow?t=10577)
+
  
