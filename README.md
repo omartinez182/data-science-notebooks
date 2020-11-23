@@ -1,6 +1,6 @@
 # Notebooks/Tutorials
 
-Notebooks with specific analysis or tutorials to share <br/>
+Notebooks from tutorials I've written or talks/workshops I've given. <br/>
 
 <b>1. [Data Science in Marketing (Spanish Version):]( https://github.com/omartinez182/data-science-notebooks/blob/master/Data_Science_in_Marketing_from_A_Z.ipynb) <br/> 
 
