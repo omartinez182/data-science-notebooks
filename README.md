@@ -21,4 +21,11 @@ The presentation can be found [here]( https://github.com/omartinez182/data-scien
 
 The recording of the event can be found [here]( https://youtu.be/JAPNOYrRzow?t=10577)
 
+
+<b>3. [Key Machine Learning Technique: Nested Cross-Validation, Why and How, with Python code]( https://github.com/omartinez182/data-science-notebooks/blob/master/Nested_Cross_Validation_in_Python.ipynb) <br/> 
+
+<b>Description:</b> This notebook is part of a tutorial I wrote on Nested Cross-Validation.
+<br/>
+The full article can be found [here]( https://www.kdnuggets.com/2020/10/nested-cross-validation-python.html)
+
  
